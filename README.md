@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ricberht
-- 👀 I’m interested in history, politics, web development, cyber security and finance/economics
+- 👋 Hi, I’m @ricberht, I'm a PHP/Web developer from the UK ☕
+- 👀 I’m interested in web development, cyber security, history, politics and finance/economics
 - 🌱 I’m currently learning Angular JS!
 - 📫 How to reach me: My twitter and Bluesky are both @Ricberht 
 
