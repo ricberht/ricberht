@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ricberht
-- 👀 I’m interested in {coming soon}
-- 🌱 I’m currently learning {coming soon}
-- 📫 How to reach me {coming soon}
+- 👀 I’m interested in history, politics, web development, cyber security and finance/economics
+- 🌱 I’m currently learning Angular JS!
+- 📫 How to reach me: My twitter and Bluesky are both @Ricberht 
 
 <!---
 ricberht/ricberht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
